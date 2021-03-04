@@ -1,0 +1,14 @@
+@media only screen and (max-width: 500px) {
+    #content-container {
+        width: 90%;
+        background-color: #fff;
+        margin: 30px auto;
+        height: 350px;
+    }
+    #content-container .btn {
+        margin-top: 10;
+    }
+    #content-container #last-element {
+        margin-top: 20px;
+    }
+}
